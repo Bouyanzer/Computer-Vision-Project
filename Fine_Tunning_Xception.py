@@ -2,7 +2,7 @@
 """
 Created on Fri Feb  7 10:03:54 2020
 
-@author: Khalid.ELASNAOUI
+@author: BOUYANZER Mohammed
 """
 import os
 os.environ["CUDA_DEVICE_ORDER"]="PCI_BUS_ID";
