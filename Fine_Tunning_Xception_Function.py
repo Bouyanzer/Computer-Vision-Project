@@ -2,7 +2,7 @@
 """
 Created on Mon Mar  2 18:19:17 2020
 
-@author: Khalid.ELASNAOUI
+@author: BOUYANZER Mohammed
 """
 from tensorflow.keras.applications.xception import Xception
 from tensorflow.keras import backend as k
