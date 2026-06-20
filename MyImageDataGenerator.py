@@ -2,7 +2,7 @@
 """
 Created on Thu Feb 13 11:17:39 2020
 
-@author: Khalid.ELASNAOUI
+@author: BOUYANZER Mohammed
 """
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 
