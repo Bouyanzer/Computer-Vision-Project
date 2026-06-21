@@ -6,7 +6,7 @@ Comparing deep learning algorithms for precision agriculture in maize leaf disea
 
 [Comparative Study of Deep Learning Algorithms in the Field of Precision Agriculture](docs/Comparative-Study-of-Deep-Learning-Algorithms-in-Precision-Agriculture.pdf)
 
-Authors: Abdelhakim EL OUAKOUAK and Mohammed BOUYANZER
+Authors: Mohammed BOUYANZER and Abdelhakim EL OUAKOUAK
 
 The article compares transfer-learning models for detecting and classifying maize leaf diseases.
 
